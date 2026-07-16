@@ -9,7 +9,7 @@ export default function Home() {
             FixNear
           </p>
           <h1 className="text-4xl font-semibold tracking-tight text-zinc-950 sm:text-5xl">
-            Your local service hub, ready to go live.
+            आपके शहर की सभी सेवाएं, एक जगह!
           </h1>
           <p className="max-w-2xl text-lg leading-8 text-zinc-600">
             This Next.js site is now running locally and includes a dedicated privacy policy
